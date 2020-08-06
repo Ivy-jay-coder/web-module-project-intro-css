@@ -1,6 +1,29 @@
 body{
     background: white;
 }
-.container
+.button{
+    display:inline-block;
+    width:100;
+    padding:1%;
+    border-radius:10px;
+    border:3px solid black;
+    color:black;
+    transition:3s;
+}
 
+.a{
+    background:#ff764E;
+}
+.b{
+    background:#5ED3EB;
+
+}
+.c{
+    background:#FFCD69;
+}
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    border:1px solid grey;
 }
